@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siddharth Gupta
-- 👀 I’m interested in coding, software architecture and design. I have working experience in on-premise to AWS cloud migration, using Kubernetes and Helm.
+- 👀 I’m interested in coding, software architecture and design.
 - 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on Cloud Migration, Kubernetes, AWS
 - 📫 How to reach me: sid.sg31@gmail.com
